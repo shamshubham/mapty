@@ -55,7 +55,6 @@ Once the application is running:
 
 ## Technologies Used
 
-- Next.js: For building the user interface and handling server-side rendering.
 - Leaflet: For interactive maps.
 - Geolocation API: To access the user's current location.
 
