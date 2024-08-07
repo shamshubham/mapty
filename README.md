@@ -1,7 +1,3 @@
-Here’s the updated README with the images included:
-
----
-
 # 🗺️ Mapty
 
 Welcome to **Mapty**, the ultimate web application for tracking and logging your running and cycling activities! With Mapty, you can effortlessly record your workouts, see them on an interactive map, and review your performance over time. Harnessing the power of the Geolocation API, Mapty accurately captures your location to provide a seamless activity tracking experience.
@@ -104,9 +100,3 @@ Inspired by the "Mapty" project created by Jonas Schmedtmann.
 ## 🚀 Deploy on Vercel
 
 Deploying your Next.js app is a breeze with the Vercel Platform, created by the team behind Next.js.
-
-For more details on deployment, check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment).
-
----
-
-Feel free to customize this README to fit your specific project needs and add any additional sections you find relevant. Enjoy tracking your activities with Mapty!
